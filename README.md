@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Samuel Abioye
-- 👀 I’m interested in web development and software engineering 
-- 🌱 I’m a highly skilled and proficient full-stack web developer in fulC++, Java and Python languages
+- 👋 Hi there, I'm Samuel Abioye, a First-Class student of Civil Engineering. (CGPA- 4.83/5)
+- 👀 I’m interested in web development and software engineering.
+- 🌱 I’m a highly skilled Full-Stack Web Developer and Software Engineer.
+- I'm very versatile and practical.
+- I work with HTML, CSS, Bootstrap, Tailwindcss, JavaScript, embedded-javascript, jQuery, React.js, Node.js, REST APIs, SQL(MySQL), NoSql(MongoDB), Python, Java and C++.
+- I'm a team-player with an eye for detail, a team-leader and a problem-solver. I'm open to opportunities to implement my skills, knowledge and intellectual capacity.
+- Fueled by my passion for knowledge and self development, I've had experience creating custom and interactive websites, web applications, database (both relational and non-relational) and software using HTML, CSS, Bootstrap, JavaScript, jQuery, React.js, Node.js, APIs, SQL, MongoDB, Python, Java and C++, just to name a few. My knowledge in this field is quite extensive.
+- Above all, I'm unquestionably passionate about technological evolution and innovation as well as structural and transportation engineering.
 - 💞️ I’m hoping to collaborate and work with your company to help facilitate front-end and back-end development of software and web applications. 
 - 🛎 You can contact me on:
 -  LinkedIn @ https://www.linkedin.com/in/samuel-abioye-bb9674208 
