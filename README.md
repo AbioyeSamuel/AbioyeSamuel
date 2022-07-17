@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate with your company to help facilitate **front-end and back-end development of software and applications.**
 
+- 🤝 I'm a team-player with an eye for detail, a team-leader and a problem-solver.**
+
 - 👨‍💻 All of my projects are available at: [https://nameless-sea-18193.herokuapp.com](https://nameless-sea-18193.herokuapp.com)
 
 - 💬 Ask me about: **React.js, HTML, CSS, Bootstrap, JavaScript, EJS, jQuery, Node.js, REST APIs, SQL, MongoDB, Python, Java and C++.**
