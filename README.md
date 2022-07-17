@@ -11,19 +11,19 @@
 
 - 👯 I’m looking to collaborate with your company to help facilitate **front-end and back-end development of software and applications.**
 
-- 👨‍💻 All of my projects are available at [https://nameless-sea-18193.herokuapp.com](https://nameless-sea-18193.herokuapp.com)
+- 👨‍💻 All of my projects are available at: [https://nameless-sea-18193.herokuapp.com](https://nameless-sea-18193.herokuapp.com)
 
-- 💬 Ask me about **React, HTML, CSS, Bootstrap, JavaScript, EJS, jQuery, Node, REST APIs, SQL, MongoDB, Python, Java and C++.**
+- 💬 Ask me about: **React.js, HTML, CSS, Bootstrap, JavaScript, EJS, jQuery, Node.js, REST APIs, SQL, MongoDB, Python, Java and C++.**
 
-- 📫 How to reach me **olaoluwaabioye99@gmail.com**
+- 📫 How to reach me: **olaoluwaabioye99@gmail.com**
 
-- 📄 Know about my experiences [https://nameless-sea-18193.herokuapp.com/css/images/resume.pdf](https://nameless-sea-18193.herokuapp.com/css/images/resume.pdf)
+- 📄 Know about my experiences: [https://nameless-sea-18193.herokuapp.com/css/images/resume.pdf](https://nameless-sea-18193.herokuapp.com/css/images/resume.pdf)
 
-- ⚡ Fun fact **I'm obsessed with coding and I'm a good footballer.**
+- ⚡ Fun fact: **I'm obsessed with coding and I'm a good footballer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abioye samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abioye samuel" height="30" width="40" /></a>
+<a href="https://codepen.io/olaoluwaabioye99@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="olaoluwaabioye99@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/abioyesamuel_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abioyesamuel_4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-abioye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-abioye" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19284078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19284078" height="30" width="40" /></a>
